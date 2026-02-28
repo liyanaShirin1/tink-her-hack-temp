@@ -16,40 +16,31 @@
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+PEEDIKA is a location-based book marketplace that allows users to buy and sell books within their nearby area. The platform uses secure authentication and GPS-based search to connect buyers with nearby sellers quickly and efficiently.
 
 ### The Problem statement
-[What problem are you solving?]
+Many students struggle to buy affordable second-hand books or sell their used books easily. Existing platforms are either not location-focused, lack trust, or are cluttered with unrelated listings, making local book exchange inefficient and inconvenient.
 
 ### The Solution
-[How are you solving it?]
-
----
+PEEDIKA provides a secure and location-aware platform where users can register, log in, and find nearby book sellers using GPS-based search. By integrating authentication, geolocation, and real-time backend services, the platform enables safe, fast, and hyperlocal book transactions.
 
 ## Technical Details
 
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
-
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
-
----
+-Languages used: JavaScript
+-Frameworks used: React.js, Express.js
+-Libraries used: Mongoose, React Router DOM, dotenv, CORS
+-Tools used: Node.js, Vite, Git, GitHub, VS Code
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+Book Listing (Sell / Exchange): Users can upload books either for selling or exchanging with others.
+Recent Uploads Section: Newly added books automatically appear on the homepage.
+Book Detail View: Each book has a dedicated page showing complete seller details and description.
+Frontend–Backend Integration: Data is fetched dynamically from the backend API for real-time updates
 
 ---
 
